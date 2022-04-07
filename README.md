@@ -1,2 +1,7 @@
-# introducao-PHP
-Strings e laços de repetição em PHP, além de desafios como IMC e tabuada
+# introdução ao PHP
+
+Trago exemplos de Strings e laços de repetição;
+
+Além de desafios de aplicações básicas como:
+  Calculo de IMC;
+  Tabuada.
