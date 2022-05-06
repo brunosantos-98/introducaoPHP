@@ -1,6 +1,6 @@
-# introdução ao PHP
+# Conceitos de PHP
 
-  Trago exemplos de Strings e laços de repetição;
+  Exemplos de Strings e laços de repetição;
 
   <ul>
     <p>Além de desafios de aplicações básicas como:</p>
